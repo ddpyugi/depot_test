@@ -1,7 +1,7 @@
 public class Main{
 
     public void main(){
-        // Dit bonjour
+        // Dit bonjour en anglais!
         System.out.println("Hello World!");
     }
   
