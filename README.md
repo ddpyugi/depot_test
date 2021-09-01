@@ -1,3 +1,3 @@
 depot_test
 ==========
-Ce dépot va me permettre de tester la fonction d'édition de GitHub
+Ce depot va me permettre de tester la fonction d'edition de GitHub.
